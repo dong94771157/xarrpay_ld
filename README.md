@@ -29,6 +29,6 @@ XArrPay 非官方收集的插件仓库
 
 如发现本仓库中存在任何违法或侵权内容，请及时联系我进行处理。您可以通过以下方式联系我：
 
-- 邮箱: [gerui434@gmail.com](mailto:gerui434@gmail.com)
+- 邮箱: [18wljishu@gmail.com](mailto:18wljishu@gmail.com)
 
 谢谢你的理解与配合。
